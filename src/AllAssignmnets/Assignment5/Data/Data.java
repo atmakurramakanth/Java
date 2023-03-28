@@ -1,4 +1,4 @@
-package AllAssignmnets.Assignment5;
+package AllAssignmnets.Assignment5.Data;
 
 
 public class Data {
